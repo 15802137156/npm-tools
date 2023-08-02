@@ -20,3 +20,7 @@ const dtStr = ruigu.dateFormat(new Date(), 'YYYY-MM-DD HH:mm:ss')
 调用 deepCopy 对数组或对象进行深拷贝
 const obj = ruigu.deepCopy({ a: 1 })
 ```
+
+
+指导地址
+https://www.jianshu.com/p/e9248f98cde4
