@@ -6,7 +6,7 @@
   "keywords": [
     "npm",
     "dateFormat",
-    "escape"
+    "deepCopy"
   ],
   "license": "ISC"
 }
